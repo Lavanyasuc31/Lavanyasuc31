@@ -6,17 +6,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **KBC Quiz with Python**
+- 🔭 I’m currently working on **KBC Quiz with Python.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 - 👨‍💻 All of my projects are available at **[Github]((https://github.com/Lavanyasuc31))**
 
 - 📫 How to reach me **lavanyasuc31@gmail.com**
 
-- ⚡ Fun fact **I'm a pro at whiling away time**
+- ⚡ Fun fact **I enjoy roaming around**
 
 ## 🚀 Languages and Tools:
 
