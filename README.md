@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at **[Github](("https://github.com/Lavanyasuc31"))**
+- 👨‍💻 All of my projects are available at **[Github]((https://github.com/Lavanyasuc31))**
 
 - 📫 How to reach me **lavanyasuc31@gmail.com**
 
