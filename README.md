@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto"  src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif" height="50px"></a>
+<a href="#"><img width="50%" height="auto"  align="center"  src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif" height="35px"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lavanya Lenka</h1>
 
