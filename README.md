@@ -1,8 +1,9 @@
-<a href="#"><img width="50%" height="auto"  align="center"  src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif" height="35px"></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lavanya Lenka</h1>
 
 
+[![@lavanya_lenka's Holopin board](https://holopin.me/lavanya_lenka)](https://holopin.io/@lavanya_lenka)
 
 ## 🙋‍♂️ About Me
 
