@@ -7,17 +7,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **KBC Quiz with Python.**
+- 🔭 I’m currently working on **analysing data science jobs from Naukri.com.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
+- 👯 I’m looking to collaborate on **Data Science Projects, DSA Projects.**
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/Lavanyasuc31)**
 
 - 📫 How to reach me **lavanyasuc31@gmail.com**
 
-- ⚡ Fun fact **I enjoy roaming around**
+- ⚡ Fun fact **I’m often lost in my own world, like a daydreaming wizard conjuring up ideas while the real world runs on autopilot! 🧠✨🌈**
 
 ## 🚀 Languages and Tools:
 
@@ -61,7 +61,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/lavanya-lenka-497122206"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://instagram.com/lavanya_suc31?utm_medium=copy_link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
+<a href = "https://www.instagram.com/lavanya_lenka31/profilecard/?igsh=MTc5dGJtMDhneHY4dA=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
 
 </p>
 
