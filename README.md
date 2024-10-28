@@ -4,6 +4,7 @@
 
 
 [![@lavanya_lenka's Holopin board](https://holopin.me/lavanya_lenka)](https://holopin.io/@lavanya_lenka)
+[![An image of @lavanyasuc31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lavanyasuc31)](https://holopin.io/@lavanyasuc31)
 
 ## 🙋‍♂️ About Me
 
